@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Konstantin — Senior Back End Developer</h1>
+<h1 align="center">I'm Senior Back End Developer</h1>
 
 <p align="center">
   Building reliable back ends, shaping APIs, and keeping systems fast and sane.
@@ -51,29 +51,12 @@
 - **Own the SLO** — availability and latency are features.
 
 ### 🚀 Current focus
-- Designing **event-driven** systems with **idempotent** consumers and **exactly-once** semantics (as close as reality allows).
-- Hardening **PostgreSQL** at scale (partitioning, query plans, vacuum strategy).
-- Developer experience: **Make the right thing the easy thing**.
+- **Event-driven systems** — designing with **idempotent** and **exactly-once** semantics.
+- **Databases** — hardening at scale (partitioning, query plans, vacuum strategy).
+- **Data correctness** — clear transactional boundaries, schema evolution & migrations.
+- **Team leadership** — thoughtful code reviews, architecture reviews, and documentation that survives on-call.
+- **Developer experience** — paved roads, reproducible environments, CI/CD with quality gates, and fast feedback loops.
 
 ### 📫 Contact
 - Email: **kerimovkonstantini@example.com**  
-- LinkedIn: **/in/kerimovk**  
-
----
-
-<details>
-<summary><b>GitHub metrics</b></summary>
-
-<!-- Replace USERNAME with your GitHub handle -->
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kerimovkk&show_icons=true&hide=stars,issues&count_private=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimovkk" alt="GitHub streak">
-</p>
-
-</details>
-
-<!-- Footer -->
-<p align="center">
-  <i>“Ship small, observe, iterate.”</i>
-</p>
-
+- LinkedIn: **/in/kerimovk**
