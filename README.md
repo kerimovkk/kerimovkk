@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- Profile README -->
 
-<!--
-**kerimovkk/kerimovkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Konstantin — Senior Back End Developer</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building reliable back ends, shaping APIs, and keeping systems fast and sane.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:kerimovkonstantini@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40example.com-informational?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/kerimovk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
+---
+
+### 👋 About me
+- Senior Back End Developer focused on **scalable services**, **clean APIs**, and **production reliability**.  
+- Enjoys **domain modeling**, **performance profiling**, and **observability-first** development.  
+- Pragmatic by default, perfectionist where it matters.
+
+### ⚙️ Core stack
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Echo-4B32C3?style=for-the-badge" />
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" />
+  <!-- Cloud/Infra -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
+  <!-- Observability -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white&style=for-the-badge" />
+  <!-- Logs -->
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logstash-000000?logo=logstash&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kibana-EA4AAA?logo=kibana&logoColor=white&style=for-the-badge" />
+</p>
+
+### 🧠 Principles I work by
+- **APIs are products** — well-documented, versioned, and stable.
+- **Telemetry first** — logs, metrics, traces before features.
+- **Automate the boring** — CI/CD, reproducible environments, zero-downtime deploys.
+- **Own the SLO** — availability and latency are features.
+
+### 🚀 Current focus
+- Designing **event-driven** systems with **idempotent** consumers and **exactly-once** semantics (as close as reality allows).
+- Hardening **PostgreSQL** at scale (partitioning, query plans, vacuum strategy).
+- Developer experience: **Make the right thing the easy thing**.
+
+### 📫 Contact
+- Email: **kerimovkonstantini@example.com**  
+- LinkedIn: **/in/kerimovk**  
+
+---
+
+<details>
+<summary><b>GitHub metrics</b></summary>
+
+<!-- Replace USERNAME with your GitHub handle -->
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kerimovkk&show_icons=true&hide=stars,issues&count_private=true" alt="GitHub stats">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimovkk" alt="GitHub streak">
+</p>
+
+</details>
+
+<!-- Footer -->
+<p align="center">
+  <i>“Ship small, observe, iterate.”</i>
+</p>
+
